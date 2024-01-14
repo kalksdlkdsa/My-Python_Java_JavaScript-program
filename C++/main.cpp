@@ -9,7 +9,8 @@ using namespace std;
 //So nguyen
 //int: 4byte = 32bit : -2^31 -> 2^31 - 1
 //So thuc
-
+unsigned int; //error
+unsigned long long; //error again
 int main() {
     cout << INT_MIN << " " << INT_MAX << endl;
     cout << LLONG_MIN << " " << LLONG_MAX << endl;
